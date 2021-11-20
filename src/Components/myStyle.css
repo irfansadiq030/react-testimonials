@@ -1,6 +1,10 @@
 .profile_img{
+    /* width: 90px; */
+    /* max-height: 200px; */
+}
+img{
     clip-path: circle();
-    max-width: 130px;
+    object-fit: cover;
 }
 .testimonial_area{
     /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */

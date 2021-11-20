@@ -43,7 +43,7 @@ const Testimonials = () => {
                         <i onClick={prevButton} className="bi bi-arrow-left-circle-fill"></i>
                         <i onClick={nextButton} className="bi bi-arrow-right-circle-fill"></i>
                     </div>
-                    <img className="profile_img img-fluid" src={img} alt="" />
+                    <img className="profile_img rounded-circle" width='150' height="150" src={img} alt="" />
                     <p className="quote_txt">
                         {txt}
                     </p>

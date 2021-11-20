@@ -18,10 +18,10 @@ const reviews = [
         designation:"SEO Xpert"
     },
     {
-        name: "irfan sadiq",
-        img: "https://avatars.githubusercontent.com/u/32975448?v=4",
+        name: "Rashi Khanna",
+        img: "https://starsbiog.com/wp-content/uploads/2021/04/Raashi-Khanna-Wiki.jpg",
         txt: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum praesentium molestias reiciendis ratione aut.amet consectetur adipisicing elit. Harum praesentium molestias reiciendis ratione aut.",
-        designation:"Programmer"
+        designation:"Actor"
     },
 ]
 export default reviews;
